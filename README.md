@@ -13,7 +13,7 @@ Example page: [cons blog](https://blog.cons.gr/).
 * No template images
 * No grids / (flex)boxes
 * No (obligatory) JS
-* No class/id usage for styling (with just one exception)
+* No class/id usage for styling
 * No disqus support (compared to Cryogen default theme) (-> JS)
 * No syntax highlighting (compared to Cryogen default theme) (-> JS)
 * No klipse integration (compared to Cryogen default theme) (-> JS)
